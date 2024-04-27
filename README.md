@@ -14,3 +14,40 @@ These instructions will get you a copy of the project up and running on your loc
 
 #### Prerequisites
 What things you need to install the software and how to install them:
+
+### Installing
+A step-by-step series of examples that tell you how to get a development environment running:
+ - Clone the repo
+ ```shell
+ git clone https://github.com/yourusername/WeatherApp.git
+ ```
+ - Navigate to the project directory:
+ ```shell
+ cd WeatherApp
+ ```
+
+ - Install the required packages:
+ ```bash
+ npm install
+ ```
+ - Start the server:
+ ```bash
+ npm start
+ ```
+> The app will now be running on `http://localhost:5000`.
+
+
+### Built With
+* [Node.js](nodejs.org) - Server lang used
+* [OpenWeatherMap API](https://openweathermap.org/api) - Weather Data Source
+
+### Authors
+David Oluremi - [VectorGits](https://github.com/VectorGits/)
+
+### License
+This project is licensed under the MIT License - see the [LICENSE.md](https://google.com/MIT+License) file for details.
+
+### Acknowledgments
+ - Hat tip to [CodeWithSadee](https://youtu.be/QMwyNnjAils)
+
+
