@@ -18,11 +18,11 @@ What things you need to install the software and how to install them:
 ### Installing
 A step-by-step series of examples that tell you how to get a development environment running:
  - Clone the repo
- ```shell
+ ```bash
  git clone https://github.com/yourusername/WeatherApp.git
  ```
  - Navigate to the project directory:
- ```shell
+ ```bash
  cd WeatherApp
  ```
 
